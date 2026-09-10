@@ -1,1 +1,0 @@
--- Schema is initialized automatically by server.js.
